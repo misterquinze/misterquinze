@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @misterquinze
 - 👀 I’m interested in web development in general
-- 🌱 I’m currently learning java, php, javascript, and python 
+- 🌱 I’m currently learning PHP, Java, Javascript, and Python 
 
 
 <!---
